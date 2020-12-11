@@ -1,0 +1,1 @@
+ErrorDocument 404 http://localhost/rute-master/application/error.html
